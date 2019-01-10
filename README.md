@@ -7,9 +7,10 @@ Visit https://www.youtube.com/c/BlueBladeFish for video tutorials:
 
 ------------------------------------------------
 
-contents:
+contents: 
+(main tank contoller)
 
-tank03142018_pub.tar - /app/tank* python web and PHP script content for controller
+tank03142018_pub.tar or tank01092019_pub.zip - /app/tank* python web and PHP script content for controller
 
 Main_tanl_routine_v07.zip - the arduino sketch for use with Arduino Mega
 
@@ -18,3 +19,13 @@ R_Pi_serial_build.docx - configuration instructions for building raspberry Pi as
 tank.sql - "tank" sql database for import
 
 Nextion_display.zip - Nextion display files
+
+--------------------------------------------------
+
+Mini-controller (for additional controllers based on ESP8266 LoLin) code:
+
+MinControllerV1_public.ino - Arduino code for a esp8266 controller
+
+devices.sql - "devices" sql database for import
+
+tank01092019_pub.zip - /app/tank/www/devices* web content for the esp8266 controller, along with a few other improvements to the website
