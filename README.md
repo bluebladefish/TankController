@@ -8,11 +8,11 @@ Visit https://www.youtube.com/c/BlueBladeFish for video tutorials:
 ------------------------------------------------
 
 contents: 
-(main tank contoller)
+(main tank conrtoller)
 
 tank03142018_pub.tar or tank01092019_pub.zip - /app/tank* python web and PHP script content for controller
 
-Main_tanl_routine_v07.zip - the arduino sketch for use with Arduino Mega
+Main_tanl_routine_v07.zip - the Arduino sketch for use with Arduino Mega
 
 R_Pi_serial_build.docx - configuration instructions for building raspberry Pi as SQL database, serial monitor, and website.
 
@@ -29,3 +29,5 @@ MinControllerV1_public.ino - Arduino code for a esp8266 controller
 devices.sql - "devices" sql database for import
 
 tank01092019_pub.zip - /app/tank/www/devices* web content for the esp8266 controller, along with a few other improvements to the website
+
+DS1307.zip- Arduino library for DS1307 to use with the desktop client
