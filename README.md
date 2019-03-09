@@ -20,6 +20,8 @@ tank.sql - "tank" sql database for import
 
 Nextion_display.zip - Nextion display files
 
+supporting docs.zip - easyEda gerber files, shiled build doc, BOM, and pdf of plan drawings
+
 --------------------------------------------------
 
 Mini-controller (for additional controllers based on ESP8266 LoLin) code:
