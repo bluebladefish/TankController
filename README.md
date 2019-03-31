@@ -23,6 +23,12 @@ Nextion_display.zip - Nextion display files
 supporting docs.zip - easyEda gerber files, shiled build doc, BOM, and pdf of plan drawings
 
 --------------------------------------------------
+optional mods (main tank controller):
+
+eMail_alerts.zip - includes instructions, test script, and main script to send email alerts (or email-to-cell text messages).
+Alerts if temperature is too high/low, no top off has been performed, or if no recent updates have been received from arduino/time sync is off. 
+
+--------------------------------------------------
 
 Mini-controller (for additional controllers based on ESP8266 LoLin) code:
 
