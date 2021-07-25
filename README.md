@@ -22,6 +22,8 @@ Nextion_display.zip - Nextion display files
 
 supporting docs.zip - easyEda gerber files, shiled build doc, BOM, and pdf of plan drawings
 
+Gerber_ControllerHatV1.3_2021-07-25_15-54-18.zip - latest update for main PCB. (assembly instructions in supporting docs.zip)
+
 --------------------------------------------------
 optional mods (main tank controller):
 
@@ -37,6 +39,8 @@ MinControllerV1_public.ino - Arduino code for a esp8266 controller
 devices.sql - "devices" sql database for import
 
 tank01092019_pub.zip - /app/tank/www/devices* web content for the esp8266 controller, along with a few other improvements to the website
+
+Gerber_Mini_tank_board_1.1_2021-07-25_15-50-48.zip - Gerber filles for mini tank PCB
 
 DS1307.zip- Arduino library for DS1307 to use with the desktop client
 
